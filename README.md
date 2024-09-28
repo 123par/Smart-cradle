@@ -8,3 +8,4 @@ Prerequisites Hardware: Compatible sensors and actuators (e.g., temperature sens
 bash Copy code git clone https://github.com/123par/Smart-cradle/blob/main/code.txt smart-cradle Install Dependencies:ArduinoIDE
 
 Usage Monitoring: Access real-time data and control settings through the mobile app. Adjusting Settings: Configure rocking motion, temperature thresholds, and more via the app. Alerts: Receive push notifications for any critical changes or required interventions. Contributing We welcome contributions to the Smart Cradle project! Please follow these steps: set up the components as per the circuit diagram.
+Project Maintainer: Poorva S P GitHub Repository: https://github.com/123par/Smart-cradle/blob/main/code.txt
